@@ -1,0 +1,1 @@
+python pitchbook_only_mapper.py -i "test.xlsx" -o "mapped1.csv" -a "TWHRMQQ-EIA98922" -u "JEHAN" -p "qR9#kL8@xP2m" -w "FORAGE_AI_WH" -r "FORAGE_AI_USER" -v   
